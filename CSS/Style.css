@@ -1,0 +1,58 @@
+.body{
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(245, 238, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.inside1{
+    height:90vh;
+    width: 80%;
+    background-color: rgb(204, 193, 193);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inside2{
+    height: 85%;
+    width: 55%;
+    background-color:whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+
+.inside2 input{
+    height: 7%;
+    width: 70%;
+    border: none;
+    border-bottom-style: dotted;
+    border-color: rgba(0, 0, 0, 0.158);
+    margin: 7px;
+}
+.button-container{
+    display: flex;
+}
+.my-button{
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
